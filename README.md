@@ -1,2 +1,2 @@
 # full-stack-javascript
-Full Stack Javascript
+Full Stack Javascript - Treehouse Track
