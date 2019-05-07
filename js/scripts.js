@@ -2,10 +2,18 @@
 // alert('Hello World');
 // document.write("<h1> Welcome to Javascript Basics</h1>");
 // alert('Thanks for visiting!');
-
 // alert("Hey, you're back for more?");
 
+
 // Troubleshoot Javascript via Console
-alert("Hello there");
-document.write("Now it works!");
-console.log('Program complete');
+// alert("Hello there");
+// document.write("Now it works!");
+// console.log('Program complete');
+
+
+// Variables - numbers, strings, boolean
+var message = "Hello!" ;
+alert(message);
+
+message = "Welcome to Javscript Basics";
+alert(message);
