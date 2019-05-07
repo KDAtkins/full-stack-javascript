@@ -3,5 +3,9 @@
 // document.write("<h1> Welcome to Javascript Basics</h1>");
 // alert('Thanks for visiting!');
 
+// alert("Hey, you're back for more?");
 
-alert("Hey, you're back for more?");
+// Troubleshoot Javascript via Console
+alert("Hello there");
+document.write("Now it works!");
+console.log('Program complete');
