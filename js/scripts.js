@@ -11,9 +11,15 @@
 // console.log('Program complete');
 
 
-// Variables - numbers, strings, boolean
-var message = "Hello!" ;
-alert(message);
+// Variables
+// var message = "Hello!" ;
+// alert(message);
+//
+// message = "Welcome to Javscript Basics";
+// alert(message);
 
-message = "Welcome to Javscript Basics";
-alert(message);
+var visitor = prompt("What's your name?");
+var message = 'Hello,  ' + visitor;
+// alert(visitorName);
+// console.log(visitorName);
+document.write(message);
